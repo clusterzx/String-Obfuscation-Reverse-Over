@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\bin\Debug\StringObfuscationREVO.dll
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\bin\Debug\StringObfuscationREVO.pdb
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\bin\Debug\StringObfuscationREVO.xml
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\obj\Debug\StringObfuscationREVO.Resources.resources
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\obj\Debug\StringObfuscationREVO.vbproj.GenerateResource.cache
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\obj\Debug\StringObfuscationREVO.vbproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\obj\Debug\StringObfuscationREVO.dll
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\obj\Debug\StringObfuscationREVO.xml
+c:\users\admin\source\repos\StringObfuscationREVO\StringObfuscationREVO\obj\Debug\StringObfuscationREVO.pdb
